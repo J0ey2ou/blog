@@ -1,2 +1,2 @@
-本主页完全来自于https://github.com/SimonAKing的创意，感谢开源！
+本主页完全来自于https://github.com/SimonAKing 的创意，感谢开源！
 在学会技术OR有点小钱之前，我都会将这个页面作为我的个人主页，分享我的一些感悟和做的小玩意。
